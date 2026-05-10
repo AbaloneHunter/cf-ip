@@ -5,7 +5,7 @@ def merge_and_sort_files():
     fast_file = '极速.txt'
     input_files = ['cf.090227.xyz.txt', 'vps789.com.txt', 'cf-speed-dns.txt']
     
-    final_fast_map = {}
+    final_fast_map = {} 
     other_data_map = {}
     dup_records = []
     source_stats = {name: {"total": 0, "valid": 0, "dup": 0} for name in input_files + [fast_file]}
