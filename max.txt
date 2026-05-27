@@ -1,4 +1,4 @@
-youxuan.cf.090227.xyz#节点更新时间：2026/5/27/21:55 | 更新间隔：每10分钟1次
+youxuan.cf.090227.xyz#节点更新时间：2026/5/28/1:28 | 更新间隔：每10分钟1次
 ct.877774.xyz#⚡ 电信极速
 cmcc.877774.xyz#⚡ 移动极速
 cu.877774.xyz#⚡ 联通极速
@@ -13,39 +13,39 @@ www.visa.cn#Visa中国
 store.ubi.com#Ubisoft
 www.shopify.com#Shopify官方
 staticdelivery.nexusmods.com#NexusMods
-8.39.125.19#电信
-104.18.37.7#电信
-8.39.125.182#电信
-198.41.223.5#电信
-8.39.125.151#电信
-198.41.223.99#电信
+8.39.125.18#电信
+8.39.125.57#电信
+8.39.125.211#电信
+172.64.159.7#电信
+198.41.223.13#电信
 104.18.37.133#电信
-104.18.40.189#电信
-104.18.46.111#电信
-162.159.42.213#电信
+172.64.147.88#电信
+172.64.159.67#电信
+162.159.47.235#电信
+173.245.58.117#电信
 108.162.198.127#电信
-104.19.44.93#移动
-104.19.58.103#移动
-104.19.39.171#移动
-104.19.53.133#移动
-104.19.42.116#移动
-104.19.46.224#移动
-104.19.63.171#移动
-104.16.241.80#移动
-104.17.117.43#移动
-104.19.56.193#移动
-104.17.150.154#移动
+104.19.56.13#移动
+104.19.40.96#移动
+104.19.58.219#移动
+162.159.152.3#移动
+104.19.35.191#移动
+104.19.42.247#移动
+104.19.44.149#移动
+172.64.158.29#移动
 104.17.158.215#移动
-162.159.153.118#移动
-104.26.13.61#联通
-172.67.76.48#联通
-172.67.67.22#联通
-104.18.80.40#联通
-172.67.77.182#联通
-104.19.152.93#联通
-104.19.60.152#联通
-104.17.211.119#联通
-104.17.219.189#联通
+104.19.159.172#移动
+172.64.144.170#移动
+162.159.152.215#移动
+162.159.153.185#移动
+104.26.6.206#联通
+104.26.10.51#联通
+172.67.64.32#联通
+104.26.0.109#联通
+104.17.208.1#联通
+104.17.215.50#联通
+104.17.219.27#联通
+104.19.54.144#联通
+104.16.254.231#联通
 172.64.52.96#41.99ms | 速度:70.89MB/s
 172.64.53.29#58.89ms | 速度:44.64MB/s
 162.159.44.77#60.13ms | 速度:70.98MB/s
@@ -56,45 +56,45 @@ staticdelivery.nexusmods.com#NexusMods
 162.159.58.125#68.94ms | 速度:55.45MB/s
 162.159.42.221#67.01ms | 速度:37.68MB/s
 108.162.198.115#59.06ms | 速度:70.50MB/s
+104.18.44.151
+dnew.cc
+doro.lol
 cf.0sm.com
-linear.app
 baota.us.kg
+laitemi.com
 saas.sin.fan
-fk.hshwk.org
 cf.877774.xyz
 cf.877771.xyz
 cf.900501.xyz
 fn.130519.xyz
 tencentapp.cn
-a.lma.de5.net
-cf.130519.xyz
 f.lma.de5.net
-g.lma.de5.net
+so.360832.xyz
 cfip.cfcdn.vip
-cdn.262832.xyz
+api.gzcrtw.com
 cf.cooteep.com
 cdn.2020111.xyz
 blog.646474.xyz
-cf.78607323.xyz
-cf.mubaiovo.top
 cf.tencentapp.cn
 cdns.doon.eu.org
 cfip.1323123.xyz
 cfip.xxxxxxxx.tk
 nrtcfdns.zone.id
 xn--b6gac.eu.org
+animal.nuaa.tech
 bestcf.030101.xyz
 777.ai7777777.xyz
+www.vastnovel.com
+cdn.cf.3666888.xyz
+www.adbcardpay.xyz
 nrt.xxxxxxxx.nyc.mn
-yg2.ygkkk.dpdns.org
-yg7.ygkkk.dpdns.org
-auto.dolby.dpdns.org
-cfvip.cf.3666888.xyz
+hfqek.cf.3666888.xyz
 cloudflare.182682.xyz
-youxuan.cf.3666888.xyz
 cloudflare-dl.byoip.top
+komga.aqua-aria.company
 cf.cloudflare.182682.xyz
 1757760858.tencentapp.cn
 cloudflare-ip.mofashi.ltd
 1749991941.bilibiliapp.cn
 freeyx.cloudflare88.eu.org
+0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
